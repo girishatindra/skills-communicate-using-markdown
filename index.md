@@ -7,3 +7,8 @@ added a heading hello world
 ``` python
 print("Hello World!")
 ```
+
+- [x] Create a heading
+- [x] Add a image
+- [x] Add code
+- [ ] Add task list
